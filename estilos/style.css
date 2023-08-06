@@ -52,7 +52,7 @@ body {
 }
 
 .conteudo-principal {
-    display: -webkit-flex;
+    -webkit-display:flex;
     display: flex;
     align-items: center;
     justify-content: space-around;
