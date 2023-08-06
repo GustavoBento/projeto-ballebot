@@ -11,6 +11,8 @@
 
     .cabecalho-menu {
         gap: 20px;
+        justify-content: center;
+        align-items: normal;
     }
 
     .cabecalho-menu-itens {
