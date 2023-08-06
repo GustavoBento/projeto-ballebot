@@ -34,4 +34,9 @@
     .conteudo-principal-imagem {
         height: 300px;
     }
+
+    .conteudo-secundario-paragrafo {
+        padding: 0 15px;
+        text-align: justify;
+    }
 }
