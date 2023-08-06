@@ -33,6 +33,12 @@
         padding: 0 15px;
     }
 
+    .conteudo-principal-escrito-botao {
+        width: 130px;
+        height: 67px;
+        font-size: 16px;
+    }
+
     .conteudo-principal-imagem {
         height: 300px;
         margin-bottom: 20px;
