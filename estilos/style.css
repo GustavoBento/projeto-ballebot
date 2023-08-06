@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(38deg, #2F2325 0%, #8E5D52 100%);
+}
