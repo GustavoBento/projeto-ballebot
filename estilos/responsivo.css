@@ -1,0 +1,37 @@
+@media (max-width: 768px) {
+    .cabecalho {
+        justify-content: space-between;
+    }
+
+    .cabecalho-imagem {
+        width: 42px;
+        height: 42px;
+        margin-right: 10px;
+    }
+
+    .cabecalho-menu {
+        gap: 20px;
+    }
+
+    .cabecalho-menu-itens {
+        font-size: 14px;
+    }
+
+    .conteudo-principal {
+        padding-top: 20px;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    
+    .conteudo-principal-escrito {
+        align-items: center;
+    }
+
+    .conteudo-principal-escrito-subtitulo{
+        padding: 0 15px;
+    }
+
+    .conteudo-principal-imagem {
+        height: 300px;
+    }
+}
